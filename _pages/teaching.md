@@ -3,9 +3,6 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /teaching/
-  - /teaching.html
 ---
 
 2022 Fall at USTC: Teaching Assistant, Mathematical Analysis (B1)
