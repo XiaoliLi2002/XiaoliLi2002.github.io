@@ -12,7 +12,7 @@ main:
   #- title: "Talks"
   #  url: /talks/
   
-  - tilte: "Education"
+  - title: "Education"
     url: /education/
 
   - title: "Teaching"
