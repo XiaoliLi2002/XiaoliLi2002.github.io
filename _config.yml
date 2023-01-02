@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : FireHawk
+  username               : # FireHawk
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Xiaoli Li 李晓黎"
   avatar           : "profile.png"
   bio              : "Undergraduate at University of Science and Technology of China (USTC)"
-  location         : "USTC Eestern Camp.,<br>&emsp;&nbsp; 96 Jinzhai Rd.,<br>&emsp;&nbsp; Hefei, Anhui, China, 230022"
+  location         : "USTC Eest Camp.,<br>&emsp;&nbsp; 96 Jinzhai Rd.,<br>&emsp;&nbsp; Hefei, Anhui, China, 230022"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
