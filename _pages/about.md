@@ -15,6 +15,11 @@ I am **Xiaoli Li (李晓黎)**, a junior undergraduate student at the [School of
 
 My research interest is statistical inference based on optimization algorithm, including the asymptotic properties of estimators.
 
+Education
+===
+* 2020.8-Now: Undergraduate, majoring in probability and statistics, at School of Mathematical Sciences, University of Science and Technology of China.
+* 2017.9-2020.6: High School, Anhui Fuyang No.1 High School.
+
 Contact
 ===
 
